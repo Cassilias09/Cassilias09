@@ -1,14 +1,15 @@
 # Who am I 🙂
 - My name is Cassiano Sabino
-- I am a 18 years old brazilian
-- Currently I am studying Computer Science at UFPB
+- I am an 18 years old brazilian
+- Currently studying Computer Science at UFPB
+- Looking for job and internship opportunities
 
-# What are my goals
+# What are my goals 🚀
 
 - I want to become a Fullstack Web Developer
 - I would also like to be a Game Developer, as a professional or a hobbyist, whatever life brings to me
 
-# Technologies I have some experience with
+# Technologies I have some experience with 💡
 
 - HTML
 - CSS
@@ -16,14 +17,17 @@
 - Java
 - C# (Unity)
 
-# Technologies I am learning
+# Technologies I am learning 📝
 
 - JavaScript
 
-# New technologies I want to learn
+# New technologies I want to learn 👀
 
 - Django
 - ReactJS
 - NodeJS
 - SQL
 
+# Contact me 📱
+
+- Email: cass.sabino@gmail.com
